@@ -1,0 +1,69 @@
+table{
+    border-collapse: collapse;
+}
+#id1{
+    padding: 15px;
+    height: 20px;
+    width: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+    margin-right: 1px;
+    background-color: #04a96d;
+    margin: 8px;
+    transition: width 0.2s ease-in-out;
+
+}
+#id2{
+    padding: 15px;
+    height: 20px;
+    width: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+    margin-right: 1px;
+    background-color: #2094f3;
+    margin: 8px;
+    transition: width 0.2s ease-in-out;
+}
+#id3{
+    padding: 15px;
+    height: 20px;
+    width: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+    margin-right: 1px;
+    background-color: #f44236;
+    margin: 8px;
+    transition: width 0.2s ease-in-out;
+}
+#id4{
+    padding: 15px;
+    height: 20px;
+    width: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -1px;
+    margin-right: 1px;
+    background-color: #555;
+    margin: 8px;
+    transition: width 0.2s ease-in-out;
+}
+#id5{
+    white-space: pre;
+    margin: 0px 0px 0px -44px;
+    padding: 0px 0px 0px 44px;
+}
+#id6{
+    font-size: 24px;
+    margin: 0px 0px 0px -45px;
+    padding: 0px 0px 0px 44px;
+}
+#id7{
+    height:1px;
+    width:1px;
+}
+#id1:hover, #id2:hover, #id3:hover, #id4:hover {
+    width: 500px; 
+}

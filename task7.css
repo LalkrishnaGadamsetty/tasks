@@ -1,0 +1,35 @@
+ul{
+    list-style-type:none ;
+    margin:2px;
+    padding: 0;
+    background-color: aqua;
+    color: blue;
+}
+#home{
+    background-color: chocolate;
+    color: white;
+}
+div{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    right: 100px;
+    margin: 10px solid black;
+
+}
+#nav2{
+    background-color: aqua;
+    color: blue;
+}s
+#home1{
+    background-color: chocolate;
+    color: white;
+}
+.navbar2 li{
+    float: left;
+    padding: 5px;
+    
+}
+#div2{
+    background-color: aqua;
+}
